@@ -32,7 +32,7 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        language: [ ]
+        language: [CodeQL]
         # CodeQL supports [ 'cpp', 'csharp', 'go', 'java', 'javascript', 'python' ]
         # Learn more:
         # https://github.com/Moelahmamsi/Moelahmamsi/actions/workflows/codeql-analysis.yml
