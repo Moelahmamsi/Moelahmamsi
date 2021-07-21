@@ -35,4 +35,4 @@ jobs:
         language: [CodeQL]
         # CodeQL supports [ 'cpp', 'csharp', 'go', 'java', 'javascript', 'python' ]
         # Learn more:
-        # https://github.com/Moelahmamsi/Moelahmamsi/actions/workflows/codeql-analysis.yml
+        # [![CodeQL](https://github.com/Moelahmamsi/Moelahmamsi/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/Moelahmamsi/Moelahmamsi/actions/workflows/codeql-analysis.yml)
